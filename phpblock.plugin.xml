@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>The Most Dangerous Block</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://mikelietz.org/">Mike Lietz</author>
+	<version>1.0</version>
+	<url>http://github.com/mikelietz/phpblock/</url>
+	<description><![CDATA[Execute PHP in a block.]]></description>
+	<copyright>2013</copyright>
+	<guid>2AFF8556-8B21-4D8F-BFCD-395DC0B9EB9D</guid>
+</pluggable>
